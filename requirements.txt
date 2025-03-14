@@ -4,5 +4,13 @@ flask-jwt-extended
 requests
 boto3
 google-generativeai
+Flask-SQLAlchemy
+psycopg2
 gunicorn
-dotenv
+python-dotenv
+
+
+
+
+
+
